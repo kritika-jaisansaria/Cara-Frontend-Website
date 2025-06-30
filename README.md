@@ -20,7 +20,7 @@ Welcome to **Cara**, a responsive and visually appealing e-commerce frontend web
 - **Vanilla JavaScript**
 - **Font Awesome** (for icons)
 - **Google Fonts**
-- 
+  
 ## 📱 Responsive Design
 
 - Grid-based layout
